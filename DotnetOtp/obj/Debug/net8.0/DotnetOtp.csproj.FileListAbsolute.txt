@@ -37,3 +37,17 @@ C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\obj\Debug\net8.0\refint\DotnetOtp
 C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\obj\Debug\net8.0\DotnetOtp.pdb
 C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\obj\Debug\net8.0\DotnetOtp.genruntimeconfig.cache
 C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\obj\Debug\net8.0\ref\DotnetOtp.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\obj\Debug\net8.0\DotnetOtp.sourcelink.json
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\Enums.NET.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\Epoch.net.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\ColorTranslations.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\jose-jwt.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\StandardSocketsHttpHandler.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\System.IO.Abstractions.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\Vonage.dll
+C:\Users\Acer\source\repos\DotnetOtp\DotnetOtp\bin\Debug\net8.0\Yoh.Text.Json.NamingPolicies.dll

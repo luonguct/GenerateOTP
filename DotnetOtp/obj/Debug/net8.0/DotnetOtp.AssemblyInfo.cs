@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotnetOtp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce348b1e850f2f5e4503f969c34d76963cf0aee")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotnetOtp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotnetOtp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
